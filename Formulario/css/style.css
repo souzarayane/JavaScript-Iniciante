@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 5rem;
+}
+
+.container{
+    border: 2px solid #ccc;
+    height: 85vh;
+}
+
+h1{
+    text-align: center;
+    margin-top: 1rem;
+    color: rgb(95, 93, 93);
+}
+
+form{
+    width: 500px;
+    margin: 0 auto;
+}
+
+label{
+    font-weight: bold;
+    color: rgb(95, 93, 93);
+}
+
+input, select, textarea{
+    padding: 10px;
+}
+
+button{
+    width: 500px;
+    height: 50px;
+}
