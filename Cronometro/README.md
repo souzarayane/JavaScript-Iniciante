@@ -8,4 +8,4 @@ Projetos em JavaScript de nível iniciante.
 - Variáveis de controle.
 
 ## :large_blue_diamond: Meu Resultado:
-<img src="https://github.com/souzarayane/JavaScript-Iniciante/blob/main/img/Cronometro.png" width=50%>
+<img src="https://github.com/souzarayane/JavaScript-Iniciante/blob/main/Cronometro/img/Cronometro.png" width=50%>
