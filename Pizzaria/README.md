@@ -13,4 +13,4 @@
 </ul>
 
 <h2>:computer: Meu resultado:</h2>
-<img src="" width:50%>
+<img src="https://github.com/souzarayane/JavaScript-Iniciante/blob/main/Pizzaria/img/Sistema.png" width="80%">
