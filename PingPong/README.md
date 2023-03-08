@@ -3,4 +3,4 @@
 <p>No HTML5 usei o canva para fazer o desenho do jogo e no JavaScript usei funções e estrutura condicional if/else.</p>
 
 ## :computer: Meu Resultado:
-<img src="">
+<img src="https://github.com/souzarayane/JavaScript-Iniciante/blob/main/PingPong/PingPong.gif" alt="Gif do Jogo Ping-Pong" width="50%">
