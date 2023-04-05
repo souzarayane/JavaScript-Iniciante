@@ -13,4 +13,4 @@ Neste projeto trabalhei com os conceitos:
  </ul>
  
 ## 💻 Meu Resultado:
-<img src="" alt="Resultado do Gerador de Senha">
+<img src="https://github.com/souzarayane/JavaScript-Iniciante/blob/main/GeradorDeSenhas/GeradorDeSenha.png" alt="Resultado do Gerador de Senha" width="50%">
